@@ -1,0 +1,19 @@
+ body{
+    background-color: rgb(204, 112, 173);
+ 
+}
+ 
+#heading{
+    text-align: center;
+ 
+}
+#btn{
+    height: 45px;
+    width: 150px;
+    margin: 4px;
+    font-size: 25px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(88, 86, 86);
+}
+
+ 
